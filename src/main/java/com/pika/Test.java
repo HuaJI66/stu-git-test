@@ -13,5 +13,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Idea Push Gitee");
         System.out.println("Remote Edit By Gitee");
+        System.out.println("Test");
     }
 }
