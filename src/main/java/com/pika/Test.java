@@ -11,11 +11,6 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        System.out.println("master");
-        System.out.println("hot-fix");
-        System.out.println("Git Push Test");
-        System.out.println("Git Push Test1");
-        System.out.println("Remote Edit");
-        System.out.println("Test Gitee");
+        System.out.println("Idea Push Gitee");
     }
 }
