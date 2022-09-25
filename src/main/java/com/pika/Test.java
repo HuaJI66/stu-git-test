@@ -17,5 +17,6 @@ public class Test {
         System.out.println("Git Push Test1");
         System.out.println("Remote Edit");
         System.out.println("Test Gitee");
+        System.out.println("New");
     }
 }
