@@ -15,5 +15,6 @@ public class Test {
         System.out.println("hot-fix");
         System.out.println("Git Push Test");
         System.out.println("Git Push Test1");
+         System.out.println("Remote Edit");
     }
 }
