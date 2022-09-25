@@ -14,5 +14,6 @@ public class Test {
         System.out.println("Idea Push Gitee");
         System.out.println("Remote Edit By Gitee");
         System.out.println("Test");
+        System.out.println("ssh test");
     }
 }
